@@ -1,3 +1,4 @@
+// timer
 const time = +process.argv[2];
 
 setTimeout(() => {
